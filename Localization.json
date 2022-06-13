@@ -3,7 +3,18 @@
         "locale": "fa",
         "translations": {
             "Forms": "فرم ها",
-            "Saved Forms": "فرم های ثبت شده"
+            "Saved Forms": "فرم های ثبت شده",
+            "Fields Count": "تعداد فیلدها",
+            "Manage fields": "مدیریت فیلدها",
+            "See filled forms": "مشاهده فیلدهای پرشده",
+            "Fields": "فیلدها",
+            "Type": "نوع",
+            "Label": "عنوان",
+            "Placeholder": "جادار",
+            "Required": "اجباری؟",
+            "Pattern": "الگو",
+            "Default": "پیش فرض",
+            "RTL": "راست چین؟"
         }
     }
 ]
