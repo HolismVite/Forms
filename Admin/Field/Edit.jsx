@@ -1,4 +1,4 @@
-import { Form, Text } from '@Form'
+import { DialogForm, Text } from '@Form'
 
 const inputs = <>
     <Text
@@ -16,7 +16,7 @@ const inputs = <>
 </>
 
 const EditField = () => {
-    return <Form
+    return <DialogForm
         entityType='field'
         inputs={inputs}
     />
