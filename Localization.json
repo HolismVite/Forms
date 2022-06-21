@@ -16,5 +16,23 @@
             "Default": "پیش فرض",
             "RTL": "راست چین؟"
         }
+    },
+    {
+        "locale": "ar",
+        "translations": {
+            "Forms": "نماذج",
+            "Saved Forms": "النماذج المحفوظة",
+            "Fields Count": "عدد الحقول",
+            "Manage fields": "إدارة الحقول",
+            "See filled forms": "انظر النماذج المعبأة",
+            "Fields": "حقول",
+            "Type": "نوع",
+            "Label": "مُلصَق",
+            "Placeholder": "عنصر نائب",
+            "Required": "مطلوب؟",
+            "Pattern": "نمط",
+            "Default": "الافتراضية",
+            "RTL": "من اليمين الى اليسار؟"
+        }
     }
 ]
