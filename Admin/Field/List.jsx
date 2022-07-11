@@ -49,4 +49,3 @@ const Fields = () => {
 }
 
 export default Fields
-export { Fields }
